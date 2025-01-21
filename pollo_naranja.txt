@@ -1,0 +1,27 @@
+Pollo a la Naranja
+
+Ingredientes:
+
+4 pechugas de pollo
+200 ml de jugo de naranja natural
+2 cucharadas de miel
+1 cucharada de salsa de soya
+1 diente de ajo picado
+Sal y pimienta al gusto
+Aceite de oliva
+
+Preparación:
+
+Sazona las pechugas de pollo con sal y pimienta.
+En una sartén con un poco de aceite de oliva, cocina las pechugas hasta que estén doradas por ambos lados.
+En un recipiente, mezcla el jugo de naranja, la miel, la salsa de soya y el ajo.
+Vierte la mezcla sobre el pollo y cocina a fuego bajo hasta que la salsa reduzca y espese.
+
+cambio ej 3 paso 4
+
+intento 2 ej 3 paso 1
+intento de ver las diferencias de un commit especifico
+
+cambio numero 1 para probar versiones de commit
+cambio numero 2 para probar versiones de commit
+cambio numero 3
